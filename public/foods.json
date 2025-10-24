@@ -1,0 +1,7 @@
+[
+  { "name": "Apple", "category": "Fruit" },
+  { "name": "Broccoli", "category": "Vegetable" },
+  { "name": "Chicken", "category": "Meat" },
+  { "name": "Rice", "category": "Grain" },
+  { "name": "Cilantro", "category": "Leaf" }
+]
